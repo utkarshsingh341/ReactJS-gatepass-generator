@@ -14,3 +14,8 @@ This web application developed in the internship serves the purpose of a gate pa
 - react-icons
 - jquery
 - Other few packages to improve user experience
+
+
+
+
+Done as a part of the internship program at Tata Steel Limited
