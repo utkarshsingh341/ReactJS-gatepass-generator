@@ -1,0 +1,74 @@
+/* width */
+::-webkit-scrollbar {
+  width: 6px;
+}
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #888;
+}
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+.input-form {
+  padding: 10px;
+}
+.input-form input {
+  margin: 5px;
+  padding: 7px;
+  width: 100%;
+}
+.input-form button {
+  width: 45%;
+  margin-left: 30%;
+  margin-top: 15px;
+  margin-bottom: 20px;
+}
+.select-input {
+  margin-top: 5px;
+  margin-left: 5px;
+}
+.containers {
+  text-align: center;
+  width: 60%;
+  margin: 20px auto;
+  padding: 30px;
+  margin-top: 30px;
+}
+.right-align {
+  text-align: right;
+}
+.row {
+  margin: 0px;
+}
+.btn {
+  font-size: 0.9rem;
+}
+.special {
+  display: inline-flex;
+  font-size: 1.2rem;
+}
+.boldness {
+  font-weight: bold;
+}
+.login-box {
+  margin: 20px auto;
+  width: 30%;
+  padding: 20px;
+  margin-top: 90px;
+  border-radius: 5px;
+}
+.main-page {
+  width: 80%;
+}
+.blank-space {
+  padding: 7px;
+}
+
+.accn-box {
+  width: 70%;
+}
